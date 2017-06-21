@@ -26,5 +26,15 @@ namespace Vidly.Controllers
 
             return View();
         }
+
+        public ActionResult Customers()
+        {
+            return View();
+        }
+
+        public ActionResult Movies()
+        {
+            return View();
+        }
     }
 }
